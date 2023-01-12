@@ -1,4 +1,4 @@
-# [Breast Cancer Detection with Machine Learning Algorithms](https://github.com/PrashanthReddy47/Breast-Cancer-Prediction-Guided-Proejct/blob/main/Breast_Cancer_Prediction_Project.ipynb)
+# [Breast Cancer Prediction with Machine Learning Algorithms](https://github.com/PrashanthReddy47/Breast-Cancer-Prediction-Guided-Proejct/blob/main/Breast_Cancer_Prediction_Project.ipynb)
 
 ### Introduction
 Breast cancer is one of the most common forms of cancer among women worldwide. Early detection and accurate diagnosis of breast cancer are crucial for effective treatment and recovery. In this project, my aim is to develop a machine learning model that can predict the diagnosis of breast cancer using different algorithms. The project is done in Google Colab using libraries such as:
