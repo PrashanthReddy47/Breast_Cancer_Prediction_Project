@@ -8,7 +8,7 @@ Breast cancer is one of the most common forms of cancer among women worldwide. E
 -  seaborn
 
 ### Dataset Summary
-The [dataset]() contains 569 samples of breast cancer tumors and 30 features. The dataset is divided into two classes: malignant (cancerous) and benign (non-cancerous) tumors. The dataset is loaded into the program using the pandas library.
+The [dataset](https://github.com/PrashanthReddy47/Breast_Cancer_Prediction_Project/blob/main/Dataset.csv) contains 569 samples of breast cancer tumors and 30 features. The dataset is divided into two classes: malignant (cancerous) and benign (non-cancerous) tumors. The dataset is loaded into the program using the pandas library.
 
 ### Exploring the data
 To explore the data further, we use the seaborn library to create a [heatmap](https://github.com/PrashanthReddy47/Breast-Cancer-Prediction-Guided-Proejct/blob/main/Images/Correlation_Plot.png) that shows the correlation between the different features. The heatmap shows that some features, such as the radius of the tumor, are highly correlated with the diagnosis of the tumor.
